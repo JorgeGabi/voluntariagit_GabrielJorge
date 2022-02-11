@@ -6,7 +6,7 @@
  */
 package pruebapersona;
 import java.util.regex.Pattern;
-
+/*comentario nuevo de la clase persona*/
 public class Persona {
 
     private String dni;
