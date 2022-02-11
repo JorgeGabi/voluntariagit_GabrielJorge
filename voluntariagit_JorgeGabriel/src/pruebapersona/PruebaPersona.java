@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package pruebapersona;
-
+/*comentario nuevo del proyecto*/
 import java.util.Scanner;
 
 /**
